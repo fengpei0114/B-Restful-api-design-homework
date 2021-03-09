@@ -1,4 +1,4 @@
-package com.thoughtworks.capability.gtb.restfulapidesign.entity;
+package com.thoughtworks.capability.gtb.restfulapidesign.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
